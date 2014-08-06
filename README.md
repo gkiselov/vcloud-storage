@@ -1,7 +1,7 @@
 vcloud-storage
 ==============
 
-vCloud Storage is a CLI tool and Ruby library that supports the provisioning and management of independent and dependent disks in VMware vCloud. This gem is build on top of the [vCloud Core gem](http://gds-operations.github.io/vcloud-tools/).
+vCloud Storage is a CLI tool and Ruby library that supports the creation and management of independent and dependent disks in VMware vCloud. This gem is build on top of the [vCloud Core gem](https://rubygems.org/gems/vcloud-core) and based of the [vCloud Edge Gateway](https://github.com/gds-operations/vcloud-edge_gateway) gem.
 
 ## Installation
 
